@@ -218,11 +218,11 @@ footer{position: fixed;
 #ne3{position: relative;}
 #ne2{position: relative;}
 #ne1{position: relative;}
-#led img{max-width: 40px;
+#led img{max-width: 40 px;
         position:absolute;bottom:0;}
-#mm img {max-width: 40px;
+#mm img {max-width: 40 px;
        position:absolute;bottom:0;}
-#mg img {max-width: 40px;
+#mg img {max-width: 40 px;
        position:absolute;bottom:0;}
 #ss{margin-top: 50px;}
 
@@ -230,27 +230,28 @@ footer{position: fixed;
      margin-top: 100px;
      background-size: cover;
      background-position-x: center;
-     padding: 20px;position: relative;
+     padding: 20 px;position: relative;
+    height:200 px
      
      }
 
-     #m2{margin-top: 100px;
+     #m2{margin-top: 100 px;
        background-image: url(../img/campbell-3ZUsNJhi_Ik-unsplash.jpg);
-       margin-top: 100px;
+       margin-top: 100 px;
        background-size: cover;
        background-position-x: center;
-       padding: 20px;position: relative;
-       height: 200px;}
-     #m3{margin-top: 100px;background-image: url(../img/backg.jpg);
-       margin-top: 100px;
+       padding: 20 px;position: relative;
+       height: 200 px;}
+     #m3{margin-top: 100 px;background-image: url(../img/backg.jpg);
+       margin-top: 100 px;
        background-size: cover;
        background-position-x: center;
-       padding: 20px;position: relative;}
-     #m4{margin-top: 100px;background-image: url(../img/campbell-3ZUsNJhi_Ik-unsplash.jpg);
-       margin-top: 100px;
+       padding: 20 px;position: relative;}
+     #m4{margin-top: 100 px;background-image: url(../img/campbell-3ZUsNJhi_Ik-unsplash.jpg);
+       margin-top: 100 px;
        background-size: cover;
        background-position-x: center;
-       padding: 20px;
+       padding: 20 px;
        position: relative;}
 
 .qote1{position: absolute;
@@ -266,11 +267,11 @@ footer{position: fixed;
 .qote4{position: absolute;
        background-color: rgba(235, 232, 228 , 0.5);
        bottom: 0;color:aliceblue;padding-left: 10;font-size: 0;}
-#m1:hover .qote1{font-size: 20px;}
-#m2:hover .qote2{font-size: 20px;}
-#m3:hover .qote3{font-size: 20px;}
-#m4:hover .qote4{font-size: 20px;}
-#va1{margin-top: 100px;margin-bottom: 40px;
+#m1:hover .qote1{font-size: 20 px;}
+#m2:hover .qote2{font-size: 20 px;}
+#m3:hover .qote3{font-size: 20 px;}
+#m4:hover .qote4{font-size: 20 px;}
+#va1{margin-top: 100 px;margin-bottom: 40px;
        background-image: -webkit-linear-gradient(180deg,rgba(225 ,225 ,225 ,0.5) 0% ,rgba(228, 146, 146, 0.5)100%);
        background-image: -moz-linear-gradient(180deg,rgba(225 ,225 ,225 ,0.5) 0% ,rgba(228, 146, 146, 0.5)100%);
        background-image: -o-linear-gradient(180deg,rgba(225 ,225 ,225 ,0.5) 0% ,rgba(228, 146, 146, 0.5)100%);
