@@ -235,19 +235,19 @@ footer{position: fixed;
      
      }
 
-     #m2{margin-top: 100 px;
+     #m2{margin-top: 100 px;height:200 px;
        background-image: url(../img/campbell-3ZUsNJhi_Ik-unsplash.jpg);
        margin-top: 100 px;
        background-size: cover;
        background-position-x: center;
        padding: 20 px;position: relative;
        height: 200 px;}
-     #m3{margin-top: 100 px;background-image: url(../img/backg.jpg);
+     #m3{margin-top: 100 px;background-image: url(../img/backg.jpg);height:200 px;
        margin-top: 100 px;
        background-size: cover;
        background-position-x: center;
        padding: 20 px;position: relative;}
-     #m4{margin-top: 100 px;background-image: url(../img/campbell-3ZUsNJhi_Ik-unsplash.jpg);
+     #m4{margin-top: 100 px;background-image: url(../img/campbell-3ZUsNJhi_Ik-unsplash.jpg);height:200 px;
        margin-top: 100 px;
        background-size: cover;
        background-position-x: center;
